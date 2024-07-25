@@ -42,7 +42,7 @@ runs:
         INPUT_REPORTER: ${{ inputs.reporter }}
         INPUT_FILTER_MODE: ${{ inputs.filter_mode }}
         INPUT_USE_BUNDLER: ${{ inputs.use_bundler }}
-        INPUT_CONFIG_FULE: ${{ inputs.config_file }}
+        INPUT_CONFIG_FILE: ${{ inputs.config_file }}
 branding:
   icon: check-circle
   color: blue
